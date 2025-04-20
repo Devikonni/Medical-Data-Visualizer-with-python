@@ -42,18 +42,18 @@ The goal of this project is to process medical examination data and visualize re
    
    git clone https://github.com/<your-username>/medical-data-visualizer.git
    cd medical-data-visualizer
-Install dependencies:
+** Install dependencies:
 
 Ensure you have all the necessary dependencies by installing them with pip:
 
  
-pip install -r requirements.txt
+** pip install -r requirements.txt
 Run the script:
 
 The main Python script medical_data_visualizer.py processes the data and generates the required visualizations.
  
 python medical_data_visualizer.py
-Run unit tests:
+** Run unit tests:
 
 To ensure your code is correct, run the provided unit tests:
  
@@ -61,18 +61,17 @@ python -m unittest test_module.py
 ## 🗂️ Project Structure
  
 medical-data-visualizer/
-├── medical_data_visualizer.py    # Main script with the core logic
-├── medical_examination.csv       # Dataset with medical examination data
-├── test_module.py                # Unit tests to validate the functionality
-├── main.py                       # Script for testing during development
-├── requirements.txt              # Python dependencies
-├── README.md                     # You're here!
-└── .gitignore                    # Gitignore file to exclude unnecessary files
+├── medical_data_visualizer.py   
+├── medical_examination.csv      
+├── test_module.py                
+├── main.py                      
+├── requirements.txt              
+├── README.md                   
+└── .gitignore                   
 ## 🔗 Links
-GitHub Repository: https://github.com/<your-username>/medical-data-visualizer
+GitHub Repository:  https://github.com/Devikonni/Medical-Data-Visualizer-with-python/tree/main
 
-Gitpod Workspace: [Add your Gitpod link here]
-
+Gitpod Workspace:  https://freecodecam-boilerplate-uswlepohixi.ws-us118.gitpod.io/
 ## 📬 About Me
 Hi, I'm Konni Devi! I'm passionate about transforming data into actionable insights and applying my analytical skills to real-world problems.
 
