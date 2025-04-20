@@ -2,7 +2,7 @@
 This project analyzes medical examination data using Python, Pandas, Seaborn, and Matplotlib. It includes cleaning, normalization, categorical plotting, and heatmap generation. Done as part of the freeCodeCamp Data Analysis with Python certification.
  
 
-This Python project visualizes and analyzes medical examination data to explore the relationship between body measurements, blood tests, lifestyle choices, and cardiovascular disease. The project uses **Pandas**, **Matplotlib**, and **Seaborn** to clean, process, and visualize the dataset.
+
 
 The goal of this project is to process medical examination data and visualize relationships between various health metrics and the presence of cardiovascular disease. You will use different types of visualizations to provide insights into these relationships.
 
